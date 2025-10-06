@@ -1,4 +1,4 @@
-# Shared Expenses Tracker
+# Shared Expense Tracker
 
 ## Overview
 A Spring Boot implementation of a shared expense tracker inspired by Splitwise.
